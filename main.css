@@ -20,19 +20,19 @@ h1 {
 
 .container {
 	text-align: center;
-	background-color: skyblue;
+	background-color: cyan;
 	float: left;
 }
 
 p.one {
 	background-color: yellow;
 	font-size: 200%;
-	color: red;
+	color: crimson;
 	float: right;
 }
 
 p.two {
-  background-color: red;
+  background-color: crimson;
   width: 100%;
   height: 150px;
   font-family: Helvetica;
