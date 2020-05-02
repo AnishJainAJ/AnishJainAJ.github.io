@@ -5,6 +5,10 @@
 	border: 2px solid black;
 }
 
+body {
+	background-color: Azure;
+}
+
 h1 {
 	text-align: center;
 	background-color: none;
