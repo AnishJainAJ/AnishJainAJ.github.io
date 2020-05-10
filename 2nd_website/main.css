@@ -1,1 +1,18 @@
 
+.main_container {
+	margin-top: 80px;
+	color: black;
+	font-style: bold;
+}
+
+#b {
+	background-color: lightgray;
+	margin-bottom: 20px;
+}
+
+#heads {
+	font-style: bold;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	font-size: 1.4em;
+}
