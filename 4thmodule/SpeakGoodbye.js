@@ -1,4 +1,4 @@
-(function (global) {
+( function (global) {
 	var byeSpeaker = {};
 	var speakWord = "Good Bye";
     byeSpeaker.speak = function (name) {
